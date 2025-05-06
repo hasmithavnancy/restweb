@@ -275,7 +275,7 @@ home.html
 
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2024 FLAVORA. All rights reserved. | <a href="#">Privacy Policy</a></p>
+        <p>&copy; 2025 FLAVORA. All rights reserved. | <a href="#">Privacy Policy</a></p>
     </footer>
 </body>
 
@@ -525,7 +525,7 @@ menu.html
 
     <!-- Footer Section -->
     <footer>
-        <p>&copy; 2024 FLAVORA | <a href="#">Back to Home</a></p>
+        <p>&copy; 2025 FLAVORA | <a href="#">Back to Home</a></p>
     </footer>
 </body>
 
@@ -768,8 +768,7 @@ contact.html
 ~~~
 
 ## OUTPUT:
-![Screenshot 2025-05-06 202548](https://github.com/user-attachments/assets/131f6e84-6baf-4bd6-86ab-8d8284eac80b)
-![Screenshot 2025-05-06 202623](https://github.com/user-attachments/assets/43aa2582-e5fc-4cf6-af9f-81b8a351a08a)
+
 ![Screenshot 2025-05-06 202646](https://github.com/user-attachments/assets/00fc90b8-e051-42d8-882f-cc84beeb98da)
 
 ## RESULT:
