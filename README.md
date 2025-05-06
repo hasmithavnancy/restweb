@@ -768,7 +768,8 @@ contact.html
 ~~~
 
 ## OUTPUT:
-
+![Screenshot 2025-05-06 205755](https://github.com/user-attachments/assets/90847f6e-22ec-4f4a-b8df-9b0919b17841)
+![Screenshot 2025-05-06 205815](https://github.com/user-attachments/assets/e0224e43-7723-4451-a8fc-c367de210851)
 ![Screenshot 2025-05-06 202646](https://github.com/user-attachments/assets/00fc90b8-e051-42d8-882f-cc84beeb98da)
 
 ## RESULT:
